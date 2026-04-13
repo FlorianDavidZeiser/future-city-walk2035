@@ -11,7 +11,7 @@ Future City Walk 2035 ist eine interaktive Foresight Experience. Ein 15-minütig
 👉 [Im Browser öffnen](https://floriandavidzeiser.github.io/future-city-walk2035/)
 
 🎧 Am besten mit Kopfhörern, ca. 15 Minuten
-🌐 Stabile Internetverbindung empfohlen
+🌐 Stabile Internetverbindung erforderlich
 
 ## Worum es geht
 
@@ -47,7 +47,7 @@ Entwickelt gemeinsam mit verschiedenen KI-Tools für Text, Stimmen, Dramaturgie 
 Weitere Experimente dieser Linie:
 
 - *AI Moment*, gemeinsam mit ChatGPT verfasstes Buch
-- KI-generierte Bilder und kurze KI-gestützte Filmszenen
+- Eine Vielfalt KI-generierte Bilder und kurze KI-gestützte Filmszenen
 - Einsatz von KI in Storytelling und Corporate Learning
 - *Data Center Guardian*, ein kleines Browser-Arcade-Experiment
 
