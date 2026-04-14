@@ -44,13 +44,6 @@ Nach dem Buch *AI Moment* Anfang 2023 und dem kleinen Arcade-Experiment *Data Ce
 
 Entwickelt gemeinsam mit verschiedenen KI-Tools für Text, Stimmen, Dramaturgie und Umsetzung. Co-Creation, so wie schon das Buch und das Arcade-Experiment davor. Und wie schon bei den Projekten davor: trotz aller KI-Tools ein aufwendiger Prozess.
 
-Weitere Experimente dieser Linie:
-
-- *AI Moment*, gemeinsam mit ChatGPT verfasstes Buch
-- Eine Vielfalt KI-generierte Bilder und kurze KI-gestützte Filmszenen
-- Einsatz von KI in Storytelling und Corporate Learning
-- *Data Center Guardian*, ein kleines Browser-Arcade-Experiment
-
 Future City Walk 2035 führt diese Linie in Richtung interaktiver Foresight fort.
 
 ## Lizenz
