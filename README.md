@@ -38,12 +38,9 @@ Was mich bei diesem Projekt besonders interessiert hat: Der Unterschied zwischen
 
 ## Entstanden mit KI
 
-Dieses Projekt ist ein persönliches Experiment.
+Nach meinem Buch-Projekt AI Moment Anfang 2023, diversen KI-Experimenten seitdem und dem kleinen Arcade-Game Data Center Guardian im Winter 2025 wollte ich herausfinden, wie weit man mit KI-Tools aktuell in Richtung narrativer, inhaltlich anspruchsvoller Formate kommt.
 
-Nach dem Buch *AI Moment* Anfang 2023 und dem kleinen Arcade-Experiment *Data Center Guardian* im Winter 2025 wollte ich in meinem neuen Experiment herausfinden, wie weit man mit KI-Tools aktuell in Richtung narrativer, inhaltlich anspruchsvoller Formate kommt.
-
-Entwickelt gemeinsam mit verschiedenen KI-Tools für Text, Stimmen, Dramaturgie und Umsetzung. Co-Creation, so wie schon das Buch und das Arcade-Experiment davor. Und wie schon bei den Projekten davor: trotz aller KI-Tools ein aufwendiger Prozess.
-
+Entwickelt gemeinsam mit verschiedenen KI-Tools für Text, Stimmen, Dramaturgie und Umsetzung. Co-Creation, so wie schon das Buch und das Arcade-Game davor. Und wie schon bei den Projekten davor: trotz aller KI-Tools ein aufwendiger Prozess.
 Future City Walk 2035 führt diese Linie in Richtung interaktiver Foresight fort.
 
 ## Lizenz
