@@ -34,7 +34,7 @@ Zu beachten: Die vier Zukünfte sind keine Prognosen. Sie sind Denkräume.
 
 > *„Szenarien sind keine Prognosen. Zusammenfassungen sind keine Erlebnisse. Der Unterschied ist der ganze Punkt."*
 
-Was mich bei diesem Projekt besonders interessiert hat: Der Unterschied zwischen Information und Erleben. Meine These: Foresight-Arbeit, die nur gelesen wird, erreicht nicht dasselbe wie Foresight-Arbeit, die man erlebt. Die Experience ist deshalb darauf angelegt, durchgegangen zu werden, nicht zusammengefasst. Der Wert steckt im Durchgehen, nicht im Überfliegen.
+Was mich bei diesem Projekt besonders interessiert hat: Der Unterschied zwischen Information und Erleben. Meine These: Foresight-Arbeit, die nur gelesen wird, erreicht nicht dasselbe wie Foresight-Arbeit, die man erlebt. Zu beachten: Nicht alles in den dargestellten Zukünften ist zwingend technisch korrekt oder vollständig widerspruchsfrei, das war nicht der Anspruch des Experiments.
 
 ## Entstanden mit KI
 
