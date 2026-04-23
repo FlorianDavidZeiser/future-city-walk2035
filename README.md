@@ -4,7 +4,7 @@
 
 Wie könnte die Stadt der Zukunft aussehen, in der du morgen leben wirst?
 
-Future City Walk 2035 ist eine interaktive Foresight Experience. Ein 15-minütiger Spaziergang durch vier sehr unterschiedliche Stadt-Zukünfte, die auf ausgearbeiteten Szenarien basieren.
+Future City Walk 2035 ist eine interaktive Foresight Experience. Ein 30-minütiger Spaziergang durch vier sehr unterschiedliche Stadt-Zukünfte, die auf ausgearbeiteten Szenarien basieren.
 
 ## Zur Experience
 
