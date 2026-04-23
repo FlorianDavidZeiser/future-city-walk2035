@@ -21,14 +21,12 @@ Zu beachten: Die vier Zukünfte sind keine Prognosen. Sie sind Denkräume.
 
 ## Features
 
-- Browser-basierte Experience, keine Installation nötig
-- Vier narrative Szenarien mit eigener Atmosphäre und eigener Stimme
-- KI-generierte Sprecher:innen und Soundtrack, eingebunden als MP3
-- Vier Protagonist:innen, die dich durch ihre Städte begleiten
+- Browser-basierte Experience
+- Vier narrative Szenarien mit vier Protagonist:innen
+- KI-generierte Stimmen, eingebunden als MP3
 - Mikro-Entscheidungen, Rekonstruktionen und Reflexionen entlang des Weges
 - Persistenter Fortschritt, lokal im Browser gespeichert
-- Persönliches Foresight-Profil am Ende des Walks
-- Teilbare Profilkarte
+- Persönliches Foresight-Profil und teilbare Profilkarte am Ende
 
 ## Information und Erleben
 
