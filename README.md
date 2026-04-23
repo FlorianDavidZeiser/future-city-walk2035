@@ -8,7 +8,7 @@ Future City Walk 2035 ist eine interaktive Foresight Experience. Ein 15-minütig
 
 ## Zur Experience
 
-🔊 Mit Ton erleben, Dauer ca. 15 Minuten
+🔊 Mit Ton erleben, Dauer ca. 30 Minuten
 🌐 Stabile Internetverbindung erforderlich
 
 👉 https://floriandavidzeiser.github.io/future-city-walk2035/
